@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @devmafra  
+- 👀 I’m interested in coding, games, and playing guitar & piano.  
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.  
+- 💞️ I’m looking to collaborate on any project that helps me grow as a developer.  
+- 📫 How to reach me: **dev@davimafra.com**  
+- 😄 Pronouns: Dev
+- ⚡ Fun fact: I’ve been a professional musician for over 20 years, and now I’m turning my creativity into code! 🎸💻  
