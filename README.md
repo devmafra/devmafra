@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Davi Mafra
-- 👀 I’m interested in coding, games, and playing guitar & piano.  
-- 🌱 I’m currently learning HTML, CSS, and JavaScript.  
 - 💞️ I’m looking to collaborate on any project that helps me grow as a developer.  
+- 💻 Currently learning: JavaScript | React | Node.js | HTML/CSS | SQL
+- 🛠️ Tools: Git | AutoCAD (3D modeling experience)
+- 🌟 Soft Skills: Team Leadership | Problem-Solving | Client-Focused Communication
+- 🌐 Languages: English (Advanced) | Portuguese (Native)  
 - 📫 How to reach me: **dev@davimafra.com**  
 - 😄 Another Name: DevMafra
 - ⚡ Fun fact: I’ve been a professional musician for over 20 years, and now I’m turning my creativity into code! 🎸💻  
